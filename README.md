@@ -22,3 +22,5 @@ I'm a software engineer with a passion for learning and building projects. I spe
 
 ![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsevanb&show_icons=true&theme=radical)
 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Itsevanb)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-betley/)
+
