@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Evan 👋
 
-<!--
-**itsevanb/itsevanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a passion for learning and building projects. I specialize in mostly in Python, but continue to learn, and I'm always looking to expand my skills and collaborate with others.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)
+
+## 🛠️ My Skills
+
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks/Libraries**: React.js, Flask
+- **Databases**: SQL, Docker
+- **Tools**: Git, Docker, AWS
+
+## 🎉 Some of My Projects
+
+- **[Ask Anything](https://evbot.replit.app/)**: Chatbot that uses ChatGPT 4 API to generate helpful answers to questions on a fly
+- **[Movie Data](http://itsevanb.pythonanywhere.com/)**: Current project, online movie database that uses SQL databases, login authentication, profiles, APIs, recommendations etc. feel free to build simple profile and help me build with features
+
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsevanb&show_icons=true&theme=radical)
+
