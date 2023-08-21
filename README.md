@@ -6,7 +6,7 @@ I'm a software engineer with a passion for learning and building projects. I spe
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
-![](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)
+![](https://visitor-badge.glitch.me/badge?page_id=itsevanb.itsevanb)
 
 ## 🛠️ My Skills
 
