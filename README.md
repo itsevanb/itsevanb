@@ -13,7 +13,7 @@ I'm a software engineer with a passion for learning and building projects. I spe
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frameworks/Libraries**: React.js, Flask
 - **Databases**: SQL, Docker
-- **Tools**: Git, Docker, AWS
+- **Tools**: Git, Github, AWS, Postman
 
 ## 🎉 Some of My Projects
 
