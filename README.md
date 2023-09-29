@@ -25,7 +25,7 @@
 - **[Movie Data](http://itsevanb.pythonanywhere.com/)**: Current project, online movie database that uses SQL databases, login authentication, profiles, APIs, recommendations etc. feel free to build simple profile and help me build with features.
 - **[Ask Anything](https://evbot.replit.app/)**: Chatbot that uses ChatGPT 4 API to generate helpful answers to questions on a fly. Utilizing Python and Flask.
 
-[![Git Memory](https://gitmemory.com/itsevanb.png)](https://gitmemory.com/itsevanb)
+![Metrics](https://metrics.lecoq.io/itsevanb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsevanb)](https://github.com/itsevanb/github-readme-stats)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Itsevanb)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-betley/)
