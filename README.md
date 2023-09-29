@@ -9,7 +9,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=itsevanb.itsevanb)
 
 ## 🛠️ My Skills
@@ -26,7 +25,7 @@
 - **[Movie Data](http://itsevanb.pythonanywhere.com/)**: Current project, online movie database that uses SQL databases, login authentication, profiles, APIs, recommendations etc. feel free to build simple profile and help me build with features.
 - **[Ask Anything](https://evbot.replit.app/)**: Chatbot that uses ChatGPT 4 API to generate helpful answers to questions on a fly. Utilizing Python and Flask.
 
-[![GitHub Skyline](https://skyline.github.com/itsevanb)](https://skyline.github.com/itsevanb)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsevanb&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsevanb)](https://github.com/itsevanb/github-readme-stats)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Itsevanb)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-betley/)
