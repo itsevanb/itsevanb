@@ -14,7 +14,7 @@
 ## 🛠️ My Skills
 
 - **Languages**: JavaScript, TypeScript, Python
-- **Frameworks/Libraries**: React.js/Next.js, Flask/jinja2
+- **Frameworks/Libraries**: React/Next.js, Flask/jinja2
 - **Databases**: SQL, MongoDB
 - **Tools**: Git, Github, Postman, 
 
