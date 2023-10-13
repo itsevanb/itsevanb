@@ -21,7 +21,7 @@
 ## 🎉 Some of My Projects
 
 - **[My Portfolio](https://evanbetley.com)**: A deployed portfolio, showcasing some of my background and abilities.
-- **[Social Media](https://social-media-fxv6n7eat-itsevanb.vercel.app/)**: A Threads like social-media clone, with login authentication using Clerk, database for saving user posts and profiles with MongoDB, community features and more. Clerk for authentication.
+- **[Social Media](https://social-media-fxv6n7eat-itsevanb.vercel.app/)**: A Threads like social-media clone, with login authentication using Clerk, database for saving user posts and profiles with MongoDB, community features and more.
 - **[Movie Data](http://itsevanb.pythonanywhere.com/)**: Online movie database that uses SQLite, login authentication, profiles, APIs, recommendations etc. feel free to build simple profile and help me build with features. LogIn/PW is: test
 - **[Ask Anything](https://evbot.replit.app/)**: Chatbot that uses ChatGPT 4 API to generate helpful answers to questions on a fly. Utilizing Python and Flask.
 
